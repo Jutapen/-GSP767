@@ -1,0 +1,25 @@
+# Penjaga kredensial - jangan pernah di-commit
+*.json
+*.pem
+*.key
+*.p12
+*.pfx
+*.crt
+*.cer
+.env
+.env.*
+*.env
+credentials*
+secrets*
+id_rsa*
+id_ed25519*
+*.kubeconfig
+kubeconfig*
+.config/
+.kube/
+.ssh/
+.gnupg/
+*.log
+*.tmp
+*.swp
+.DS_Store
